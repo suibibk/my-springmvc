@@ -1,6 +1,6 @@
 package cn.myforever.entity;
 /**
- * 防止url映射的对象和方法
+ * url映射的对象和方法
  * @author forever
  *
  */
